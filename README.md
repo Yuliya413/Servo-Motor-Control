@@ -22,7 +22,6 @@ Arduino project for controlling a servo motor with a potentiometer.
 - Rotate potentiometer to control servo
 
 ## Demo
-![Circuit Diagram](screenshots/circuit.png)  
-![Simulation](https://www.tinkercad.com/things/74invD1FaJS-p6-yuliya?sharecode=wOePKZrqa3ESnTHs7Y1AHyj73EKz20ha0gfMPPowP7A)# Servo-Motor-Control-with-Potentiometer
-# Servo-Motor-Control
-# Servo-Motor-Control
+![Circuit Diagram](circuit.png)  
+
+Simulation https://www.tinkercad.com/things/74invD1FaJS-p6-yuliya?sharecode=wOePKZrqa3ESnTHs7Y1AHyj73EKz20ha0gfMPPowP7A)# Servo-Motor-Control-with-Potentiometer
